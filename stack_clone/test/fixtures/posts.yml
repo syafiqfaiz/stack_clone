@@ -1,15 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  question: MyString
+  title: MyString
+  body: MyString
+  user_id: 1
   upvote: 1
   downvote: 1
-  created_at: 2014-11-19 16:35:33
-  updated_at: 2014-11-19 16:35:33
 
 two:
-  question: MyString
+  title: MyString
+  body: MyString
+  user_id: 1
   upvote: 1
   downvote: 1
-  created_at: 2014-11-19 16:35:33
-  updated_at: 2014-11-19 16:35:33
